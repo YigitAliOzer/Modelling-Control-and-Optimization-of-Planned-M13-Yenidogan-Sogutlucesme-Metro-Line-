@@ -42,3 +42,5 @@ yticks(10:2:50);
 grid on;
 
 writetable(AllResults,'Planned M13 Metro Line Headway-Train Number Analysis.csv')
+exportgraphics(gcf, 'fleet_headway_v01.png', ...
+    'Resolution', 300);
