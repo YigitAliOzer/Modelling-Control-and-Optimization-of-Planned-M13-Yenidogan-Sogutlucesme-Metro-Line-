@@ -44,8 +44,8 @@ Selected headway=3 minutes
 Required train number=31 trainsets
 Estimated cycle time=92,34 minutes
 Planned directional capacity= 12.750 passenger/hour/direction
-Estimated Peak demand= 12.276 passengers/hour/direction
-Estimated Peak-section load rate= 0.8184
+Estimated peak demand= 12.276 passengers/hour/direction
+Estimated peak-section load rate= 0.8184
 
 Findings:
 Based on the findings, when the hypothetical numbers were formulated, a 3-minute headway and 31 train sets (excluding spare and maintenance sets) emerged as the most suitable option among the alternatives.
