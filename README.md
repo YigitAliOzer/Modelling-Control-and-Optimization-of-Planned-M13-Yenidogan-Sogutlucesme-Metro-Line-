@@ -26,3 +26,31 @@ Research Limitations and Principle of Integrity:
 This study is conducted independently as an undergraduate student project. It is not a formally defined plan for the M13 line. All hypothetical values, model constraints, and data sources will be documented. Simulation results will not be presented as verified operating performance unless supported by appropriate real world data and validation.
 
 Keywords: Railway Transportation, Railway Operations, Control and Automation Engineering, Headway Regulation and Control
+
+
+Preliminary Results:
+A preliminary capacity analysis of planned M13 Yenidoğan-Söğütlüçeşme Metro Line was found. Operating scenario has stated below:
+
+Line Length=24.6 km
+Hypothetical Commercial Speed=35 km/h
+Hypothetical Total Termainal Turn Time=8 minutes
+Official(historical) reference daily passenger usage number=620.000 passengers
+Hypothetical daily usage rate= 0.60
+Estimated peak-section demand= 12.276 passengers/hour/direction
+Evaluated headway interval=2-10 minutes, in 30 seconds increments
+Load rate=0.85
+
+Selected headway=3 minutes
+Required train number=31 trainsets
+Estimated cycle time=92,34 minutes
+Planned directional capacity= 12.750 passenger/hour/direction
+Estimated Peak demand= 12.276 passengers/hour/direction
+Estimated Peak-section load rate= 0.8184
+
+Findings:
+Based on the findings, when the hypothetical numbers were formulated, a 3-minute headway and 31 train sets (excluding spare and maintenance sets) emerged as the most suitable option among the alternatives.
+
+Limitations in Findings:
+The above data are subject to scenario-based hypothetical models in the preliminary assessment. Passenger demand, capacity and dynamic characteristics of the train sets to be acquired, and terminal turnaround times require verification and validation. Furthermore, signaling and terminal capacity characteristics are not included in the scenario-based study. These should not be considered as official outputs or a complete solution for the M13 Metro Line.
+
+
