@@ -11,7 +11,7 @@ Project Objectives:
 1. To develop mathematical models for the system.
 2. To optimize the relationship between service frequency and fleet under certain constraints.
 3. To simulate train movements, departures, arrivals, and delays.
-4. To design a feedback-based controller to be used in service interval control.
+4. To design a feedback-based controller to be used in headway control.
 5. To realize the objectives using MATLAB/Simulink software.
 
 Project Development Stages:
