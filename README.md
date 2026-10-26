@@ -34,7 +34,7 @@ A preliminary capacity analysis of planned M13 Yenidoğan-Söğütlüçeşme Met
 Line Length=24.6 km
 Hypothetical Commercial Speed=35 km/h
 Hypothetical Total Termainal Turn Time=8 minutes
-Official(historical) reference daily passenger usage number=620.000 passengers
+Official(historical) reference daily passenger usage number=620.000 passengers(Wikipedia,accessed 26 October 2026)
 Hypothetical daily usage rate= 0.60
 Estimated daily demand:372.000 passengers/day
 Peak-hour share=0.10
