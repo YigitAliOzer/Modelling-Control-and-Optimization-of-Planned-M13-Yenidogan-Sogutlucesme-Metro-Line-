@@ -58,3 +58,18 @@ Limitations in Findings:
 The above data are subject to scenario-based hypothetical models in the preliminary assessment. Passenger demand, capacity and dynamic characteristics of the train sets to be acquired, and terminal turnaround times require verification and validation. Furthermore, signaling and terminal capacity characteristics are not included in the scenario-based study. These should not be considered as official outputs or a complete solution for the M13 Metro Line.
 
 
+Optimization:
+
+A hypothetical analysis for the M13 line was conducted, focusing on capacity, fleet size, and service frequency, and then optimized using an objective function that determines total costs.
+
+The optimization aimed to minimize passenger and train-related costs, subject to constraints such as service frequency—varied in 30-second increments between 2 and 10 minutes—and capacity requirements.
+
+Based on the calculations and feasibility assessments, the optimal configuration was determined to be 30 train sets, a service frequency of 3.08 minutes, and 3 spare train sets. The resulting minimum cost was calculated at 688,125 TL/hour.
+
+The requirement for 31 train sets, identified in a previous analysis, was reduced to 30 train sets following the cost-minimization and optimization process.
+
+Limitations in Optimization:
+
+The results obtained are based entirely on hypothetical economic values, passenger demand, and operational parameters; they do not represent the actual costs of the M13 Metro Line.
+
+
