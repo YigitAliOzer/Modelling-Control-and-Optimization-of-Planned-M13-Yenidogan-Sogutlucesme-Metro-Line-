@@ -41,7 +41,7 @@ Evaluated headway interval=2-10 minutes, in 30 seconds increments
 Load rate=0.85
 
 Selected headway=3 minutes
-Required train number=31 trainsets
+Required train number=31 trainsets (spare and maintenance sets are not included)
 Estimated cycle time=92,34 minutes
 Planned directional capacity= 12.750 passenger/hour/direction
 Estimated peak demand= 12.276 passengers/hour/direction
