@@ -36,6 +36,10 @@ Hypothetical Commercial Speed=35 km/h
 Hypothetical Total Termainal Turn Time=8 minutes
 Official(historical) reference daily passenger usage number=620.000 passengers
 Hypothetical daily usage rate= 0.60
+Estimated daily demand:372.000 passengers/day
+Peak-hour share:0.10
+Peak-direction share:0.55
+Peak-section share:0.45
 Estimated peak-section demand= 12.276 passengers/hour/direction
 Evaluated headway interval=2-10 minutes, in 30 seconds increments
 Load rate=0.85
